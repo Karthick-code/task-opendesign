@@ -72,6 +72,7 @@ body {
     padding: 2px;
     border: 0px;
     background: white;
+    font-size: 100%;
 }
 
 .over-view:hover, .whychennai:hover, .plotbenefits:hover{
@@ -565,6 +566,7 @@ a:hover{
     
     background-image: url("https://s3-alpha-sig.figma.com/img/255e/85e6/fe69615706d488afebd0fb01c6f6d29a?Expires=1734307200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=O8FVx43HfOWBwsdtnzJxCn0h3U6cTLJXHsFk~EPQGRDNc5HqsEMjnei8aABrjsYMuml9d8ZBg~KPzI-JbsIMzNDgAerhTRTl9wwoSyZKuEhHlabOcZ4o7USwjRAvapvo5-ZW-9QQ3Y7PUsXH1d6XxdTHHVSH0lfomX79HvxXG0Oy4jvaG3Wvy8d2fP7yVvOPsq26fd398RRUQ4gE0EeB4epKU8KTuf7a9tRVXXQdXdNcbMfio5QJgLB6jz8t2oLWHGdxihIPAu3tzAxrSREztwN1ZkfZqMSKTcnl21YNP~XK~g1GJPw7tXbBNZ-wAKZXBBX56ZCbX0Hs0ueAZ1qqAA__");
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     width: 100%;
     padding: 20px 80px;
